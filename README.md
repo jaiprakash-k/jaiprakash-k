@@ -29,33 +29,12 @@
 
 ---
 
-## 🚀 Projects  
-
-- **Personal Portfolio Website** – Responsive portfolio built with React.js & CSS (dark mode + animations).  
-- **Weather App** – Real-time weather updates using OpenWeather API with error handling.  
-- **To-Do List App** – Task management app with LocalStorage & intuitive UI.  
-- **ResQlinK (Hackathon Finalist)** – Offline-first emergency communication app using **Bluetooth Mesh + Firebase**.  
-
----
 
 ## 🎯 Achievements & Hackathons  
 
 - 🏆 **Finalist – SEISMO Hack 1.0** (ResQlinK: Disaster Communication App)  
 - 💡 **Hackathon Participation:** CodeCrafter Hybrid Hack, ECOHACK Ideathon, Hack the Cosmos, Foundathon 2.0  
 - 📚 **Workshops:** Cybersecurity (Anyware Door), MERN Stack Development Bootcamp, Vibe Coding (IIT KGP)  
-
----
-
-## 📜 Certifications  
-
-- ✔️ JavaScript Essentials 1 – Cisco  
-- ✔️ React.js Complete Course – Udemy  
-- ✔️ CSS & JavaScript Crash Course – Udemy  
-- ✔️ Machine Learning for All – University of London  
-- ✔️ UX Design Foundations – Google  
-- ✔️ Fundamentals of OOP – NPTEL  
-- ✔️ Software Engineering – IBM  
-- ✔️ Python & C++ Programming – Udemy  
 
 ---
 

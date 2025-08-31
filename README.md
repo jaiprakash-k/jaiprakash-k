@@ -8,10 +8,13 @@
 
 ---
 
-## 👋 About Me  
-Hi! I'm Jai Prakash, a passionate student pursuing a **B.Tech in Computer Science and Engineering (Specialization in Software Engineering)** at **SRM University (2024–2028)**.  
+<h2 align="center">👋 About Me</h2>  
 
-I enjoy solving challenging problems, building impactful projects, and exploring new technologies. My interests include **Web Development, Hackathons, AI/ML, and Cloud Technologies**.  
+<p align="center">  
+Hi! I'm <b>Jai Prakash</b>, a passionate student pursuing a <b>B.Tech in Computer Science and Engineering (Specialization in Software Engineering)</b> at <b>SRM University</b>.  
+I love building impactful projects, solving real-world problems, and exploring innovative domains in technology.  
+My interests span across <b>Web Development, IOS Development, AI/ML, and Cloud Computing</b>, and I’m eager to learn, collaborate, and contribute to the tech community.  
+</p>   
 
 ---
 

@@ -10,11 +10,11 @@
 
 <h2 align="center">👋 About Me</h2>  
 
-<p align="center">  
-Hi! I'm <b>Jai Prakash</b>, a passionate student pursuing a <b>B.Tech in Computer Science and Engineering (Specialization in Software Engineering)</b> at <b>SRM University</b>.  
-I love building impactful projects, solving real-world problems, and exploring innovative domains in technology.  
-My interests span across <b>Web Development, IOS Development, AI/ML, and Cloud Computing</b>, and I’m eager to learn, collaborate, and contribute to the tech community.  
-</p>   
+<p align="center">
+✨ Hi! I'm <b>Jai Prakash</b>, an enthusiastic learner and builder pursuing a <b>B.Tech in Computer Science and Engineering (Software Engineering)</b> at <b>SRM University</b>.<br><br>
+Rather than just writing code, I focus on <b>creating meaningful solutions</b> — from intuitive web interfaces to innovative hackathon projects. I enjoy tackling challenges that push me to think beyond the obvious and turn ideas into impactful applications.<br><br>
+My curiosity drives me across domains like <b>Web Development, iOS Development, AI/ML, and Cloud Computing</b>. Whether it’s experimenting with new frameworks, optimizing user experience, or brainstorming real-world problem statements, I’m always excited to collaborate, learn, and grow with the tech community.
+</p>  
 
 ---
 

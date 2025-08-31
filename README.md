@@ -21,7 +21,7 @@ My curiosity drives me across domains like <b>Web Development, iOS Development, 
 ## 🚀 Technical Experience & Interests  
 - MERN Stack & Front-End Development  
 - Software Engineering Principles  
-- Hackathon & Innovation Projects  
+- Hackathons & Innovation Projects  
 - AI, Machine Learning & UX Design  
 - Basic Cloud & DevOps Concepts  
 

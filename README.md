@@ -1,44 +1,39 @@
-# 🌟 Hi, I'm Jai Prakash!  
-
-🚀 **Aspiring Software Developer | MERN Stack Enthusiast | Problem Solver**  
-
-💡 Passionate about building modern, user-focused web applications and solving real-world challenges through technology. Currently pursuing **B.Tech in Computer Science and Engineering (Software Engineering)** at **SRM University** (2024–2028).  
+# Hey! Nice to see you 👋  
+I'm **Jai Prakash** 👨‍💻  
+**Student | Web Developer | Software Engineer Enthusiast**  
 
 ---
 
-## 🛠️ Tech Stack & Skills  
+## 👋 About Me  
+Hi! I'm Jai Prakash, a passionate student pursuing a **B.Tech in Computer Science and Engineering (Specialization in Software Engineering)** at **SRM University (2024–2028)**.  
 
-**Languages:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)  
-![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)  
+I love solving real-world problems, building impactful projects, and continuously learning new technologies. My interests span across **Web Development, AI/ML, Cloud Computing, and Hackathon Innovation**.  
 
-**Web Development:**  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
+---
+
+## 🚀 Technical Experience & Interests  
+- Front-End & MERN Stack Development  
+- Software Engineering Principles  
+- Hackathon Projects & Problem Solving  
+- Cloud & Basic DevOps Concepts  
+- AI, Machine Learning & User Experience Design  
+
+---
+
+## 🛠️ Languages and Tools  
+
+**Programming Languages:**  
+C | C++ | Java | Python | JavaScript | Swift  
+
+**Web Technologies:**  
+HTML | CSS | React.js  
 
 **Tools & Platforms:**  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)  
-☁️ Basic Cloud Concepts  
+Git | GitHub | VS Code | Basic Cloud Concepts  
 
 ---
 
-
-## 🎯 Achievements & Hackathons  
-
-- 🏆 **Finalist – SEISMO Hack 1.0** (ResQlinK: Disaster Communication App)  
-- 💡 **Hackathon Participation:** CodeCrafter Hybrid Hack, ECOHACK Ideathon, Hack the Cosmos, Foundathon 2.0  
-- 📚 **Workshops:** Cybersecurity (Anyware Door), MERN Stack Development Bootcamp, Vibe Coding (IIT KGP)  
-
----
-
-## 📊 GitHub Stats  
+## 🎨 GitHub Stats  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jaiprakash-k&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaiprakash-k&layout=compact&theme=radical)  
@@ -46,12 +41,10 @@
 
 ---
 
-## 🌐 Connect With Me  
-
+## 🌐 Let's Connect  
 📌 [LinkedIn](https://www.linkedin.com/in/jai-prakash-k-103286355/)  
 📌 [GitHub](https://github.com/jaiprakash-k)  
 📩 **Email:** kjaiprakash000@gmail.com  
 
 ---
-
 ✨ *"Code. Learn. Build. Repeat."*  

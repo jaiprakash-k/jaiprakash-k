@@ -2,7 +2,7 @@
 <h2 align="center">I'm Jai Prakash 👨‍💻</h2>  
 
 <p align="center">  
-    Student | Web Developer | Aspiring Software Engineer
+    Student | Full Stack Developer | Software Engineer
 </p>  
 
 ---

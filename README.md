@@ -4,7 +4,7 @@
 
 ### 👨‍💻 Crafting Digital Experiences • 🎓 CSE Student @ SRM University
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Solutions+That+Matter;MERN+Stack+Enthusiast;iOS+Development+Explorer;Hackathon+Warrior+%F0%9F%94%A5;Always+Learning+%2B+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Solutions+That+Matter;MERN+Stack+Enthusiast;iOS+Development+Explorer;Always+Learning+%2B+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
 
 <br>
 

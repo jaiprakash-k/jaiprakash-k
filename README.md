@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jai%20Prakash&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20SoftwareDeveloper%20|%20Problem%20Solver&descAlignY=51&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jai%20Prakash&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Software%20Developer%20|%20Problem%20Solver&descAlignY=51&descAlign=50"/>
 
 ### 👨‍💻 Crafting Digital Experiences • 🎓 CSE Student @ SRM University
 

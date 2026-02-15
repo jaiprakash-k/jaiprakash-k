@@ -12,7 +12,7 @@
 
 ### 🎓 EDUCATION & LOCATION
 **B.Tech Computer Science & Engineering** | SRM University  
-🌍 **Vijayawada, Andhra Pradesh** 🇮🇳
+🌍 **Chennai, Tamil Nadu** 🇮🇳
 
 </div>
 

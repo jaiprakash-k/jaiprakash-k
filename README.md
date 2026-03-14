@@ -26,7 +26,7 @@
 const jaiPrakash = {
     role: "Full Stack Developer",
     specialization: "Software Engineering",
-    expertise: ["MERN Stack", "iOS Development", "Problem Solving"],
+    expertise: ["MERN Stack", "IOS Development", "Problem Solving"],
     philosophy: "Think beyond the obvious, build impactful applications",
     workStyle: "Creating meaningful solutions, not just writing code",
     

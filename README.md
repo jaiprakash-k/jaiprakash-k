@@ -4,7 +4,7 @@
 
 ### Full Stack Software Developer × Problem Solver
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=20&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=MERN+Stack+Architect;iOS+Development+Explorer;Building+Solutions+That+Scale;Always+Shipping+%26+Learning" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=20&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=MERN+Stack+Architect;IOS+Development+Explorer;Building+Solutions+That+Scale;Always+Shipping+%26+Learning" alt="Typing Animation" />
 
 ---
 
